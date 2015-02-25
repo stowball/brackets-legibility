@@ -3,10 +3,10 @@
     "title": "Legibility",
     "description": "Increase the legibility of Brackets' UI. Useful for High DPI screens",
     "homepage": "https://github.com/stowball/brackets-legibility",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "Matt Stow matt@mattstow.com (http://mattstow.com)",
     "license": "MIT",
     "engines": {
-        "brackets": ">=0.35.0"
+        "brackets": ">=0.45.0"
     }
 }
