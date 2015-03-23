@@ -19,8 +19,13 @@
 	line-height: 18px;
 }
 
-.jstree-brackets li a, .jstree-brackets li a:hover {
+.jstree-brackets li a, .jstree-brackets li a:hover, #project-files-container .jstree-brackets .jstree-rename-input {
 	font-size: 16px
+}
+
+#project-files-container .jstree-brackets .jstree-rename-input {
+	height: 20px;
+	line-height: 20px;
 }
 
 .sidebar-selection, .sidebar-selection-triangle {
